@@ -31,7 +31,7 @@ var jerrySize = 130;
 function preload()
 {
   // music
-  music = loadSound('assets/music.mp3');
+  music = loadSound('../assets/music.mp3');
   music.setLoop(true);
 
   // Images
